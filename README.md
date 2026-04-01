@@ -1,2 +1,2 @@
 # ProdNet
-Neural network that discover matrix multiplication algorithms using tensor decomposition
+A neural network that discovers matrix multiplication algorithms using tensor decomposition
