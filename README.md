@@ -1,5 +1,6 @@
 # ProdNet 💻🦾
 is a neural network framework designed to discover efficient matrix multiplication algorithms using machine learning, specifically through tensor decomposition techniques.
+
 <img width="487" height="455" alt="image" src="https://github.com/user-attachments/assets/c3213613-8aa8-4b33-9272-18e88aa15abe" />
 <img width="487" height="455" alt="image" src="https://github.com/user-attachments/assets/d5d0fa46-7e52-4213-a9f4-28dc80dc070c" />
 
