@@ -36,7 +36,8 @@ Feel free to open issues, suggest improvements, or submit pull requests to enhan
 
 # Contact ✉️
 • **Email:** wissambadia4@gmail.com
-• **LinkedIn:** Badia Ouissam Lakas
+
+• **LinkedIn:** [Badia Ouissam Lakas](linkedin.com/in/badia-ouissam-lakas-a66a28214)   
 
 
 
