@@ -18,7 +18,7 @@ Importantly, the approach is designed to operate efficiently without requiring h
 # Results and Analysis 📋
 - **Evaluation Metrics:** The quality of the discovered multiplication algorithm is assessed using Mean Squared Error (MSE) and regularization terms.
   In theory, a perfect solution would yield an MSE of exactly zero. However, due to numerical approximation limits in computer calculations, the MSE typically reaches extremely small values (on the order of 1e-15), which indicates a highly accurate solution.
-- **Results:** The discovered algorithms for 2by2 and 3by3 matrices size are presented in the 5th ISPR international conference.  The link will be provided soon.
+- **Results:** The discovered algorithms for 2by2 and 3by3 matrices size are presented in the 5th ISPR international conference.
 
 # Contributing 🤝
 Contributions are welcome! You can experiment with the model and explore new matrix multiplication algorithms by adjusting a few key parameters:
@@ -33,6 +33,8 @@ You can extend the implementation to handle non-square matrices by:
   - Modifying the model’s input and output dimensions accordingly
 
 Feel free to open issues, suggest improvements, or submit pull requests to enhance the project 🚀
+
+Paper DOI: https://doi.org/10.1007/978-3-032-21585-7_7
 
 # Contact ✉️
 • **Email:** wissambadia4@gmail.com
